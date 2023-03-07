@@ -1,0 +1,174 @@
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\appsettings.Development.json
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\appsettings.json
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\MVCCRUD.staticwebassets.runtime.json
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\MVCCRUD.exe
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\MVCCRUD.deps.json
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\MVCCRUD.runtimeconfig.json
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\MVCCRUD.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\MVCCRUD.pdb
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\Azure.Core.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\Azure.Identity.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\Humanizer.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\System.CodeDom.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\System.Text.Json.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Dot Net\MiniProject\MVCCRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Dot Net\MiniProject\MVCCRUD\obj\Debug\net6.0\MVCCRUD.csproj.AssemblyReference.cache
+D:\Dot Net\MiniProject\MVCCRUD\obj\Debug\net6.0\MVCCRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot Net\MiniProject\MVCCRUD\obj\Debug\net6.0\MVCCRUD.AssemblyInfoInputs.cache
+D:\Dot Net\MiniProject\MVCCRUD\obj\Debug\net6.0\MVCCRUD.AssemblyInfo.cs
+D:\Dot Net\MiniProject\MVCCRUD\obj\Debug\net6.0\MVCCRUD.csproj.CoreCompileInputs.cache
+D:\Dot Net\MiniProject\MVCCRUD\obj\Debug\net6.0\MVCCRUD.MvcApplicationPartsAssemblyInfo.cache
+D:\Dot Net\MiniProject\MVCCRUD\obj\Debug\net6.0\MVCCRUD.RazorAssemblyInfo.cache
+D:\Dot Net\MiniProject\MVCCRUD\obj\Debug\net6.0\MVCCRUD.RazorAssemblyInfo.cs
+D:\Dot Net\MiniProject\MVCCRUD\obj\Debug\net6.0\staticwebassets\msbuild.MVCCRUD.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dot Net\MiniProject\MVCCRUD\obj\Debug\net6.0\staticwebassets\msbuild.build.MVCCRUD.props
+D:\Dot Net\MiniProject\MVCCRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVCCRUD.props
+D:\Dot Net\MiniProject\MVCCRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVCCRUD.props
+D:\Dot Net\MiniProject\MVCCRUD\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Dot Net\MiniProject\MVCCRUD\obj\Debug\net6.0\staticwebassets.build.json
+D:\Dot Net\MiniProject\MVCCRUD\obj\Debug\net6.0\staticwebassets.development.json
+D:\Dot Net\MiniProject\MVCCRUD\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Dot Net\MiniProject\MVCCRUD\obj\Debug\net6.0\scopedcss\bundle\MVCCRUD.styles.css
+D:\Dot Net\MiniProject\MVCCRUD\obj\Debug\net6.0\scopedcss\projectbundle\MVCCRUD.bundle.scp.css
+D:\Dot Net\MiniProject\MVCCRUD\obj\Debug\net6.0\MVCCRUD.csproj.CopyComplete
+D:\Dot Net\MiniProject\MVCCRUD\obj\Debug\net6.0\MVCCRUD.dll
+D:\Dot Net\MiniProject\MVCCRUD\obj\Debug\net6.0\refint\MVCCRUD.dll
+D:\Dot Net\MiniProject\MVCCRUD\obj\Debug\net6.0\MVCCRUD.pdb
+D:\Dot Net\MiniProject\MVCCRUD\obj\Debug\net6.0\MVCCRUD.genruntimeconfig.cache
+D:\Dot Net\MiniProject\MVCCRUD\obj\Debug\net6.0\ref\MVCCRUD.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\appsettings.json
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\MVCCRUD.staticwebassets.runtime.json
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\MVCCRUD.exe
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\MVCCRUD.deps.json
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\MVCCRUD.runtimeconfig.json
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\MVCCRUD.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\MVCCRUD.pdb
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\Humanizer.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\obj\Debug\net6.0\MVCCRUD.csproj.AssemblyReference.cache
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\obj\Debug\net6.0\MVCCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\obj\Debug\net6.0\MVCCRUD.AssemblyInfoInputs.cache
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\obj\Debug\net6.0\MVCCRUD.AssemblyInfo.cs
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\obj\Debug\net6.0\MVCCRUD.csproj.CoreCompileInputs.cache
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\obj\Debug\net6.0\MVCCRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\obj\Debug\net6.0\MVCCRUD.RazorAssemblyInfo.cache
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\obj\Debug\net6.0\MVCCRUD.RazorAssemblyInfo.cs
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\obj\Debug\net6.0\staticwebassets\msbuild.MVCCRUD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\obj\Debug\net6.0\staticwebassets\msbuild.build.MVCCRUD.props
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVCCRUD.props
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVCCRUD.props
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\obj\Debug\net6.0\scopedcss\bundle\MVCCRUD.styles.css
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\obj\Debug\net6.0\scopedcss\projectbundle\MVCCRUD.bundle.scp.css
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\obj\Debug\net6.0\MVCCRUD.csproj.CopyComplete
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\obj\Debug\net6.0\MVCCRUD.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\obj\Debug\net6.0\refint\MVCCRUD.dll
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\obj\Debug\net6.0\MVCCRUD.pdb
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\obj\Debug\net6.0\MVCCRUD.genruntimeconfig.cache
+C:\Users\pandu\OneDrive\Desktop\.NET Mini Project\MVCCRUD\obj\Debug\net6.0\ref\MVCCRUD.dll
